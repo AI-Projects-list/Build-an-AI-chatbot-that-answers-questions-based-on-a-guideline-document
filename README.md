@@ -108,6 +108,3 @@ Response:
 
 ---
 
-## 📄 License
-
-MIT License
